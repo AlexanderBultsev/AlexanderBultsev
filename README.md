@@ -18,7 +18,3 @@ I'm a Full Stack Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
-### 🔥 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexanderBultsev&theme=dark)](https://git.io/streak-stats)
