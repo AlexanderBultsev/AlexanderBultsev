@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer from Russia.
 
-- Working as a Software Engineer and contributing to backend for building web applications.
+- Working as a Software Engineer and focus on backend for building web applications.
 
 - Now exploring backend on Java and Python.
 
